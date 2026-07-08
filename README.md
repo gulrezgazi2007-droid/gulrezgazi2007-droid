@@ -15,9 +15,8 @@ Here is what I am up to right now:
 ### 📫 Connect with me:
 
 <p align="left">
-  <!-- Email -->
-  <a href="mailto:gulrezgazi2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+ <a href="https://www.linkedin.com/in/mohd-gulrez-gazi-4475113aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
   <!-- Instagram -->
