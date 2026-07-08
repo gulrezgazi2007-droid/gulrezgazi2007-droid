@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Muhammad Gulrez Gazi
 
-**Tech Enthusiast | Diploma Graduate | Exploring Cybersecurity & OSINT**
+**Tech Enthusiast | Diploma Holder | Exploring Cybersecurity & OSINT**
 
 I'm a passionate learner currently diving deep into the world of information security. After completing my Diploma, I am now focusing on hands-on practice with Linux environments and open-source intelligence. 
 
